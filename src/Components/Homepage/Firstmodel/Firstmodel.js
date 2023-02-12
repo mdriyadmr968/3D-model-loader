@@ -1298,9 +1298,6 @@ function Model(props) {
 }
 
 const Firstmodel = () => {
-  const [mesh, setMesh] = useState("#ffffff");
-  const [stripes, setStripes] = useState("#ffffff");
-  const [soul, setSoul] = useState("#ffffff");
   return (
     <>
       <div className="model_container">
@@ -1317,7 +1314,6 @@ const Firstmodel = () => {
                   castShadow
                 />
                 <Model
-                  customColors={{ mesh: mesh, stripes: stripes, soul: soul }}
                 />
                 <OrbitControls
                   enablePan={true}

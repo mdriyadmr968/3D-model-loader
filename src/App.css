@@ -43,7 +43,11 @@
   font-family: "Plus Jakarta Sans", sans-serif;
 } */
 
+@import url("https://fonts.googleapis.com/css2?family=Barlow&family=Merriweather&family=PT+Serif:ital@0;1&family=Playfair+Display&family=Roboto:wght@700&display=swap");
+
 * {
   margin: 0;
   padding: 0;
+  background-color: #f1f1f1;
+  font-family: "Roboto", sans-serif;
 }

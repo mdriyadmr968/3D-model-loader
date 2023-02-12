@@ -1,0 +1,17 @@
+.home-container {
+  width: 80%;
+  height: 100vh;
+  margin: auto;
+}
+.image_style {
+  width: 300px;
+  max-height: 300px;
+  margin: 5%;
+  border: solid rgba(#000, 0.03);
+}
+.heading {
+  text-align: center;
+  color: #000000;
+  font-size: 36px;
+  font-weight: 700;
+}
