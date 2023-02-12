@@ -3,7 +3,7 @@ import { Button, Col, Row } from "react-bootstrap";
 import { Link, Outlet } from "react-router-dom";
 import model1 from "../../../Images/model1.PNG";
 import model2 from "../../../Images/model22.PNG";
-import model3 from "../../../Images/model2image.jpg";
+import model3 from "../../../Images/model33.PNG";
 import "./Home.css";
 
 const Home = () => {
